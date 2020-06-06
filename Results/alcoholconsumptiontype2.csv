@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-20117_2","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Alcohol drinker status: Current || id:ukb-d-20117_2","Inverse variance weighted",2,0.403960952245703,1.72639725899003,0.814992176503445

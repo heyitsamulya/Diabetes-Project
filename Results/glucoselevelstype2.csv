@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"met-c-859","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Glucose || id:met-c-859","Inverse variance weighted",2,0.186310789128862,0.420158627440486,0.657455000525942

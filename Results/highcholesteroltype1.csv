@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-10912","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912","MR Egger",19,2.04066943991267,1.13990238300763,0.0912453987596367
+"ukb-b-10912","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912","Weighted median",19,1.18532128653943,0.711572517949563,0.0957577961562534
+"ukb-b-10912","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912","Inverse variance weighted",19,0.539608810135941,0.655766232695022,0.410583268488341
+"ukb-b-10912","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912","Simple mode",19,1.70675817265628,1.4558706287948,0.256348088191181
+"ukb-b-10912","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912","Weighted mode",19,1.80203609981186,0.684743368540699,0.0169307247044509

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-3957","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Sleeplessness / insomnia || id:ukb-b-3957","MR Egger",32,-0.641070997980044,1.38951010483797,0.647864740750348
+"ukb-b-3957","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Sleeplessness / insomnia || id:ukb-b-3957","Weighted median",32,-0.103783287562721,0.217918648945636,0.633897815102195
+"ukb-b-3957","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Sleeplessness / insomnia || id:ukb-b-3957","Inverse variance weighted",32,0.312253356983321,0.232151288380349,0.178611499533012
+"ukb-b-3957","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Sleeplessness / insomnia || id:ukb-b-3957","Simple mode",32,-0.214970426321724,0.476519261611933,0.655038473001159
+"ukb-b-3957","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Sleeplessness / insomnia || id:ukb-b-3957","Weighted mode",32,-0.249169852119222,0.427889422402522,0.564560817605108

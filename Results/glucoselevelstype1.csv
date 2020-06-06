@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"met-c-859","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Glucose || id:met-c-859","Wald ratio",1,-0.113208386225632,0.161726728062161,0.483928553325377

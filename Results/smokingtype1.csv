@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-20261","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Ever smoked || id:ukb-b-20261","MR Egger",6,-11.0813311736537,29.7955979688372,0.728822660403096
+"ukb-b-20261","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Ever smoked || id:ukb-b-20261","Weighted median",6,-2.03633077028643,1.54674257297176,0.18799669949155
+"ukb-b-20261","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Ever smoked || id:ukb-b-20261","Inverse variance weighted",6,3.87564604610688,6.32516406921289,0.540051927278707
+"ukb-b-20261","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Ever smoked || id:ukb-b-20261","Simple mode",6,-2.6711814245482,1.93242547189212,0.225441088819896
+"ukb-b-20261","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Ever smoked || id:ukb-b-20261","Weighted mode",6,-1.90093034229312,1.74502642697442,0.325698360834011

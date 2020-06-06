@@ -1,0 +1,21 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ukb-d-20117_2","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Alcohol drinker status: Current || id:ukb-d-20117_2","Wald ratio",1,-3.16737848455541,4.62266234155276,0.493227244277014
+"2","ukb-d-20117_2","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Alcohol drinker status: Current || id:ukb-d-20117_2","Inverse variance weighted",2,0.403960952245703,1.72639725899003,0.814992176503445
+"3","ukb-b-19953","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Body mass index (BMI) || id:ukb-b-19953","Inverse variance weighted",36,-0.29128028146953,0.474405699195047,0.539222038091862
+"31","ukb-b-19953","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Body mass index (BMI) || id:ukb-b-19953","Inverse variance weighted",346,1.07401131088372,0.0408581744006264,2.74882197084682e-152
+"32","ieu-a-9","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Coronary heart disease || id:ieu-a-9","Inverse variance weighted",4,0.0188149351288015,0.13725561390152,0.89096793191863
+"33","ieu-a-9","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Coronary heart disease || id:ieu-a-9","Inverse variance weighted",9,0.0376166532794447,0.0596950475419178,0.5285984317979
+"11","met-c-859","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Glucose || id:met-c-859","Wald ratio",1,-0.113208386225632,0.161726728062161,0.483928553325377
+"12","met-c-859","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Glucose || id:met-c-859","Inverse variance weighted",2,0.186310789128862,0.420158627440486,0.657455000525942
+"34","ukb-b-10912","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912","Inverse variance weighted",19,0.539608810135941,0.655766232695022,0.410583268488341
+"35","ukb-b-10912","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912","Inverse variance weighted",49,1.19002063537623,1.03847198461936,0.25182235016147
+"36","ukb-b-3957","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Sleeplessness / insomnia || id:ukb-b-3957","Inverse variance weighted",4,0.0657815962462118,0.97607848949913,0.946268239318426
+"37","ukb-b-3957","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Sleeplessness / insomnia || id:ukb-b-3957","Inverse variance weighted",32,0.312253356983321,0.232151288380349,0.178611499533012
+"38","ieu-a-1187","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Major Depressive Disorder || id:ieu-a-1187","Inverse variance weighted",3,-0.0634912221164459,0.469163338546602,0.892352066225864
+"39","ieu-a-1187","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Major Depressive Disorder || id:ieu-a-1187","Inverse variance weighted",30,0.0965178801008144,0.0665905180501731,0.147219272907661
+"310","ukb-b-20261","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Ever smoked || id:ukb-b-20261","Inverse variance weighted",6,3.87564604610688,6.32516406921289,0.540051927278707
+"311","ukb-b-20261","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Ever smoked || id:ukb-b-20261","Inverse variance weighted",67,0.695063134638825,0.230753179175276,0.00259404581574326
+"312","ieu-a-302","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Triglycerides || id:ieu-a-302","Inverse variance weighted",16,-0.159265231655894,0.103393427960625,0.123467604935186
+"313","ieu-a-302","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Triglycerides || id:ieu-a-302","Inverse variance weighted",51,0.0344653092509639,0.0892055172622033,0.69923118558364
+"314","ukb-b-14177","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177","Inverse variance weighted",20,1.68208975421577,1.35948794947941,0.215977006976644
+"315","ukb-b-14177","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177","Inverse variance weighted",170,1.1829716818541,0.192462563705666,7.92099376953446e-10

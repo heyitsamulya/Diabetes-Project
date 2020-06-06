@@ -1,0 +1,239 @@
+,id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+20,ukb-b-19953,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Body mass index (BMI) || id:ukb-b-19953,Inverse variance weighted,346,1.074011311,0.040858174,2.75E-152
+19,ukb-b-19953,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Body mass index (BMI) || id:ukb-b-19953,Weighted median,346,1.092852706,0.050383068,2.50E-104
+236,ieu-a-1239,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Years of schooling || id:ieu-a-1239,Inverse variance weighted,257,-0.63906621,0.061470049,2.58E-25
+18,ukb-b-19953,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Body mass index (BMI) || id:ukb-b-19953,MR Egger,346,1.206848432,0.112883974,3.17E-23
+235,ieu-a-1239,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Years of schooling || id:ieu-a-1239,Weighted median,257,-0.554899307,0.066949066,1.15E-16
+22,ukb-b-19953,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Body mass index (BMI) || id:ukb-b-19953,Weighted mode,346,1.089242641,0.13147368,2.65E-15
+21,ukb-b-19953,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Body mass index (BMI) || id:ukb-b-19953,Simple mode,346,1.089242641,0.151068782,3.56E-12
+189,ebi-a-GCST006867,ieu-a-298,Alzheimer's disease || id:ieu-a-298,Type 2 diabetes || id:ebi-a-GCST006867,Inverse variance weighted,2,-1.173809116,0.288402497,4.70E-05
+190,ebi-a-GCST006867,ieu-a-298,Alzheimer's disease || id:ieu-a-298,Type 2 diabetes || id:ebi-a-GCST006867,Inverse variance weighted,2,-1.173809116,0.288402497,4.70E-05
+201,ebi-a-GCST006867,ieu-a-298,Alzheimer's disease || id:ieu-a-298,Type 2 diabetes || id:ebi-a-GCST006867,Inverse variance weighted,2,-1.173809116,0.288402497,4.70E-05
+39,ieu-a-9,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Coronary heart disease || id:ieu-a-9,Weighted median,9,0.147009706,0.042697458,0.000575182
+77,ukb-b-7408,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Average total household income before tax || id:ukb-b-7408,Weighted median,38,-0.420315695,0.122722083,0.000614937
+237,ieu-a-1239,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Years of schooling || id:ieu-a-1239,Simple mode,257,-0.757600526,0.219139088,0.000639034
+159,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Weighted median,67,0.74308163,0.235899618,0.001632756
+24,ieu-a-1058,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Celiac disease || id:ieu-a-1058,Weighted median,9,0.212301739,0.068620942,0.001975886
+42,ieu-a-9,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Coronary heart disease || id:ieu-a-9,Weighted mode,9,0.149398587,0.033304384,0.002039918
+78,ukb-b-7408,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Average total household income before tax || id:ukb-b-7408,Inverse variance weighted,38,-0.491871051,0.159698662,0.002070042
+124,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Weighted median,67,0.74308163,0.241667992,0.002106412
+134,ukb-b-6324,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Processed meat intake || id:ukb-b-6324,Weighted median,3,3.146363614,1.029811287,0.002248492
+238,ieu-a-1239,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Years of schooling || id:ieu-a-1239,Weighted mode,257,-0.587702197,0.191230545,0.002346157
+114,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Weighted median,67,0.74308163,0.244983062,0.002419784
+115,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Inverse variance weighted,67,0.695063135,0.230753179,0.002594046
+125,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Inverse variance weighted,67,0.695063135,0.230753179,0.002594046
+130,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Inverse variance weighted,67,0.695063135,0.230753179,0.002594046
+160,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Inverse variance weighted,67,0.695063135,0.230753179,0.002594046
+129,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Weighted median,67,0.74308163,0.253835157,0.003417891
+30,ieu-a-1058,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Celiac disease || id:ieu-a-1058,Inverse variance weighted,11,0.028190235,0.010685042,0.008332541
+65,ukb-b-10912,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,"Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912",Weighted mode,19,1.8020361,0.684743369,0.016930725
+101,ukb-d-20499,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever sought or received professional help for mental distress || id:ukb-d-20499,Inverse variance weighted,2,1.060705372,0.44613859,0.017429291
+102,ukb-d-20499,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever sought or received professional help for mental distress || id:ukb-d-20499,Inverse variance weighted,2,1.060705372,0.44613859,0.017429291
+163,ukb-d-20499,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever sought or received professional help for mental distress || id:ukb-d-20499,Inverse variance weighted,2,1.060705372,0.44613859,0.017429291
+164,ukb-d-20499,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever sought or received professional help for mental distress || id:ukb-d-20499,Inverse variance weighted,2,1.060705372,0.44613859,0.017429291
+165,ukb-d-20499,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever sought or received professional help for mental distress || id:ukb-d-20499,Inverse variance weighted,2,1.060705372,0.44613859,0.017429291
+166,ukb-d-20499,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever sought or received professional help for mental distress || id:ukb-d-20499,Inverse variance weighted,2,1.060705372,0.44613859,0.017429291
+177,ukb-d-20499,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever sought or received professional help for mental distress || id:ukb-d-20499,Inverse variance weighted,2,1.060705372,0.44613859,0.017429291
+178,ukb-d-20499,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever sought or received professional help for mental distress || id:ukb-d-20499,Inverse variance weighted,2,1.060705372,0.44613859,0.017429291
+207,ukb-d-20499,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever sought or received professional help for mental distress || id:ukb-d-20499,Inverse variance weighted,2,1.060705372,0.44613859,0.017429291
+208,ukb-d-20499,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever sought or received professional help for mental distress || id:ukb-d-20499,Inverse variance weighted,2,1.060705372,0.44613859,0.017429291
+27,ieu-a-1058,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Celiac disease || id:ieu-a-1058,Weighted mode,9,0.221724795,0.077228735,0.020796508
+29,ieu-a-1058,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Celiac disease || id:ieu-a-1058,Weighted median,11,0.02750174,0.013052392,0.03511526
+184,ieu-a-302,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Triglycerides || id:ieu-a-302,MR Egger,51,-0.276726332,0.128112007,0.035689485
+26,ieu-a-1058,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Celiac disease || id:ieu-a-1058,Simple mode,9,0.252115753,0.102251971,0.038974969
+116,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Simple mode,67,1.093795491,0.53263471,0.043984551
+32,ieu-a-1058,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Celiac disease || id:ieu-a-1058,Weighted mode,11,0.028498558,0.012416337,0.044613689
+28,ieu-a-1058,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Celiac disease || id:ieu-a-1058,MR Egger,11,0.035447102,0.015208166,0.044688991
+59,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Simple mode,20,3.730482739,1.737001107,0.044854156
+132,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Weighted mode,67,0.833413154,0.414793707,0.048606116
+46,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Simple mode,20,3.730482739,1.812923952,0.05360415
+127,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Weighted mode,67,0.833413154,0.424510412,0.053835032
+48,ukb-b-12064,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,"Non-cancer illness code, self-reported: depression || id:ukb-b-12064",Wald ratio,1,5.074036362,2.708438328,0.061010725
+66,ukb-b-10912,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,"Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912",MR Egger,49,-3.914378445,2.057937796,0.063297905
+54,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Simple mode,20,3.730482739,1.905491411,0.06511005
+25,ieu-a-1058,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Celiac disease || id:ieu-a-1058,Inverse variance weighted,9,0.268143903,0.14559091,0.065509873
+161,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Simple mode,67,1.093795491,0.584768549,0.065852772
+126,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Simple mode,67,1.093795491,0.587089372,0.066901317
+131,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Simple mode,67,1.093795491,0.587357903,0.067023003
+162,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Weighted mode,67,0.833413154,0.452925787,0.070255548
+224,ebi-a-GCST006867,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Type 2 diabetes || id:ebi-a-GCST006867,MR Egger,34,-0.509091601,0.276460131,0.074839741
+117,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,Weighted mode,67,0.833413154,0.464132898,0.077130282
+72,ukb-b-10787,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Standing height || id:ukb-b-10787,Weighted median,61,0.336235391,0.190830246,0.07807594
+69,ukb-b-10912,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,"Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912",Simple mode,49,1.363527296,0.769708658,0.082828569
+61,ukb-b-10912,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,"Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912",MR Egger,19,2.04066944,1.139902383,0.091245399
+137,ukb-b-6324,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Processed meat intake || id:ukb-b-6324,Weighted mode,3,3.179367229,1.034884921,0.091622324
+74,ukb-b-10787,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Standing height || id:ukb-b-10787,Simple mode,61,-0.656899972,0.385040357,0.093169726
+62,ukb-b-10912,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,"Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912",Weighted median,19,1.185321287,0.711572518,0.095757796
+215,ukb-b-13932,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Duration of vigorous activity || id:ukb-b-13932,Weighted median,4,0.520577017,0.319271344,0.102992498
+80,ukb-b-7408,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Average total household income before tax || id:ukb-b-7408,Weighted mode,38,-0.343479341,0.210090688,0.110548706
+55,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Weighted mode,20,2.040710852,1.264567604,0.123064615
+93,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Inverse variance weighted,16,-0.159265232,0.103393428,0.123467605
+98,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Inverse variance weighted,16,-0.159265232,0.103393428,0.123467605
+181,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Inverse variance weighted,16,-0.159265232,0.103393428,0.123467605
+47,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Weighted mode,20,2.040710852,1.271055354,0.124871029
+227,ebi-a-GCST006867,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Type 2 diabetes || id:ebi-a-GCST006867,Simple mode,34,0.261939905,0.168236471,0.129016196
+38,ieu-a-9,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Coronary heart disease || id:ieu-a-9,MR Egger,9,0.249092015,0.146365245,0.13257144
+230,ieu-a-1239,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Years of schooling || id:ieu-a-1239,Weighted median,17,-0.724955531,0.482736469,0.133158454
+233,ieu-a-1239,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Years of schooling || id:ieu-a-1239,Weighted mode,17,-0.820262112,0.524331665,0.13728595
+136,ukb-b-6324,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Processed meat intake || id:ukb-b-6324,Simple mode,3,3.169093251,1.320915443,0.138527553
+31,ieu-a-1058,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Celiac disease || id:ieu-a-1058,Simple mode,11,0.033915074,0.021110988,0.139241463
+135,ukb-b-6324,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Processed meat intake || id:ukb-b-6324,Inverse variance weighted,3,2.044393969,1.40417679,0.145409834
+3,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Inverse variance weighted,30,0.09651788,0.066590518,0.147219273
+8,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Inverse variance weighted,30,0.09651788,0.066590518,0.147219273
+110,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Inverse variance weighted,30,0.09651788,0.066590518,0.147219273
+211,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Inverse variance weighted,30,0.09651788,0.066590518,0.147219273
+79,ukb-b-7408,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Average total household income before tax || id:ukb-b-7408,Simple mode,38,-0.343479341,0.233854415,0.15034544
+232,ieu-a-1239,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Years of schooling || id:ieu-a-1239,Simple mode,17,-0.968432599,0.668722419,0.166878505
+183,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Weighted mode,16,-0.188818421,0.130208376,0.167611176
+60,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Weighted mode,20,2.040710852,1.438206432,0.172116993
+95,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Weighted mode,16,-0.188818421,0.13257016,0.17483363
+88,ukb-b-3957,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Sleeplessness / insomnia || id:ukb-b-3957,Inverse variance weighted,32,0.312253357,0.232151288,0.1786115
+216,ukb-b-13932,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Duration of vigorous activity || id:ukb-b-13932,Inverse variance weighted,4,0.452615209,0.337147722,0.17943932
+7,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Weighted median,30,0.102084651,0.076644487,0.182885079
+100,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Weighted mode,16,-0.188818421,0.135903443,0.18500483
+154,ukb-b-20261,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Ever smoked || id:ukb-b-20261,Weighted median,6,-2.03633077,1.546742573,0.187996699
+109,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Weighted median,30,0.102084651,0.077755896,0.189221262
+2,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Weighted median,30,0.102084651,0.080000412,0.201937291
+17,ukb-b-19953,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Body mass index (BMI) || id:ukb-b-19953,Weighted mode,36,0.245725579,0.192651117,0.210535133
+10,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Weighted mode,30,0.245922957,0.192301577,0.211092755
+73,ukb-b-10787,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Standing height || id:ukb-b-10787,Inverse variance weighted,61,0.25212146,0.202928717,0.214083888
+210,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Weighted median,30,0.102084651,0.082262192,0.214618007
+45,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Inverse variance weighted,20,1.682089754,1.359487949,0.215977007
+53,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Inverse variance weighted,20,1.682089754,1.359487949,0.215977007
+58,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Inverse variance weighted,20,1.682089754,1.359487949,0.215977007
+97,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Weighted median,16,-0.140623702,0.113656897,0.215988716
+5,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Weighted mode,30,0.245922957,0.194717797,0.216660256
+92,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Weighted median,16,-0.140623702,0.11451283,0.219440588
+180,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Weighted median,16,-0.140623702,0.115779513,0.224525592
+156,ukb-b-20261,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Ever smoked || id:ukb-b-20261,Simple mode,6,-2.671181425,1.932425472,0.225441089
+112,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Weighted mode,30,0.245922957,0.200409893,0.229654026
+218,ukb-b-13932,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Duration of vigorous activity || id:ukb-b-13932,Weighted mode,4,0.64546881,0.448856489,0.245997177
+213,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Weighted mode,30,0.245922957,0.207935114,0.246537738
+113,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,MR Egger,67,1.291834513,1.105410144,0.246814044
+123,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,MR Egger,67,1.291834513,1.105410144,0.246814044
+128,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,MR Egger,67,1.291834513,1.105410144,0.246814044
+158,ukb-b-20261,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Ever smoked || id:ukb-b-20261,MR Egger,67,1.291834513,1.105410144,0.246814044
+68,ukb-b-10912,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,"Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912",Inverse variance weighted,49,1.190020635,1.038471985,0.25182235
+81,ukb-b-3957,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Sleeplessness / insomnia || id:ukb-b-3957,MR Egger,4,-12.92776186,8.152723042,0.253690959
+64,ukb-b-10912,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,"Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912",Simple mode,19,1.706758173,1.455870629,0.256348088
+52,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Weighted median,20,1.055004032,0.938295473,0.260850331
+44,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Weighted median,20,1.055004032,0.944821906,0.264158197
+9,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Simple mode,30,0.220024267,0.193743893,0.265403913
+141,ukb-b-6324,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Processed meat intake || id:ukb-b-6324,Simple mode,19,0.641621484,0.55897576,0.266057031
+57,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,Weighted median,20,1.055004032,0.957242016,0.270405663
+195,ukb-a-228,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Weighted mode,4,-7.895254893,5.861215877,0.270684505
+111,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Simple mode,30,0.220024267,0.196005025,0.270839398
+71,ukb-b-10787,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Standing height || id:ukb-b-10787,MR Egger,61,0.439896645,0.402021809,0.278309665
+142,ukb-b-6324,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Processed meat intake || id:ukb-b-6324,Weighted mode,19,0.613851517,0.552915651,0.281520938
+36,ieu-a-9,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Coronary heart disease || id:ieu-a-9,Simple mode,4,-0.273300375,0.20875016,0.281707771
+75,ukb-b-10787,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Standing height || id:ukb-b-10787,Weighted mode,61,0.257803259,0.239653911,0.286354049
+193,ukb-a-228,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Inverse variance weighted,4,-3.68022838,3.541852143,0.298772698
+212,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Simple mode,30,0.220024267,0.209291365,0.301810804
+192,ukb-a-228,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Weighted median,4,-3.804235856,3.744257329,0.309620432
+4,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,Simple mode,30,0.220024267,0.213151745,0.310490809
+217,ukb-b-13932,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Duration of vigorous activity || id:ukb-b-13932,Simple mode,4,0.623395307,0.516301494,0.313780258
+147,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Weighted mode,60,1.026375326,1.018831226,0.317854167
+157,ukb-b-20261,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Ever smoked || id:ukb-b-20261,Weighted mode,6,-1.900930342,1.745026427,0.325698361
+13,ukb-b-19953,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Body mass index (BMI) || id:ukb-b-19953,MR Egger,36,0.851266041,0.855933485,0.32698242
+222,ukb-b-11842,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Weight || id:ukb-b-11842,Simple mode,41,0.461535029,0.471636087,0.333667842
+33,ieu-a-9,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Coronary heart disease || id:ieu-a-9,MR Egger,4,0.393794669,0.327924871,0.352731218
+214,ukb-b-13932,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Duration of vigorous activity || id:ukb-b-13932,MR Egger,4,1.857667914,1.609019091,0.367599067
+152,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Weighted mode,60,1.026375326,1.138310366,0.370900708
+191,ukb-a-228,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,MR Egger,4,-9.823446237,8.705153308,0.376285336
+151,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Simple mode,60,0.977826125,1.129295149,0.390067268
+200,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Weighted mode,60,1.026375326,1.194792057,0.393794743
+16,ukb-b-19953,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Body mass index (BMI) || id:ukb-b-19953,Simple mode,36,0.321472473,0.372572021,0.394095972
+70,ukb-b-10912,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,"Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912",Weighted mode,49,-0.230465896,0.268528068,0.395016502
+199,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Simple mode,60,0.977826125,1.158111194,0.401896593
+225,ebi-a-GCST006867,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Type 2 diabetes || id:ebi-a-GCST006867,Weighted median,34,0.067968557,0.08149259,0.40425514
+63,ukb-b-10912,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,"Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912",Inverse variance weighted,19,0.53960881,0.655766233,0.410583268
+122,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Weighted mode,3,1.010489214,0.997244373,0.417571549
+170,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Simple mode,3,0.995551587,0.983877457,0.418109748
+121,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Simple mode,3,0.995551587,1.016611208,0.430706098
+176,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Weighted mode,3,1.010489214,1.036701462,0.43250537
+175,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Simple mode,3,0.995551587,1.036524466,0.438167797
+146,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Simple mode,60,0.977826125,1.264113068,0.442298643
+229,ieu-a-1239,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Years of schooling || id:ieu-a-1239,MR Egger,17,1.98072776,2.537430382,0.447180057
+173,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Weighted median,3,0.575053682,0.759334515,0.448862536
+168,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Weighted median,3,0.575053682,0.763938392,0.451600899
+171,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Weighted mode,3,1.010489214,1.098806133,0.454850868
+133,ukb-b-6324,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Processed meat intake || id:ukb-b-6324,MR Egger,3,10.06871912,8.774756853,0.456352489
+119,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Weighted median,3,0.575053682,0.773730197,0.45734699
+94,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Simple mode,16,-0.135777702,0.179141477,0.460232337
+99,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Simple mode,16,-0.135777702,0.180046776,0.462449586
+43,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,MR Egger,20,-3.501316543,4.670906842,0.463180314
+51,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,MR Egger,20,-3.501316543,4.670906842,0.463180314
+56,ukb-b-14177,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177,MR Egger,20,-3.501316543,4.670906842,0.463180314
+37,ieu-a-9,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Coronary heart disease || id:ieu-a-9,Weighted mode,4,0.074745696,0.089945684,0.466925904
+182,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,Simple mode,16,-0.135777702,0.188982173,0.48351062
+49,met-c-859,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Glucose || id:met-c-859,Wald ratio,1,-0.113208386,0.161726728,0.483928553
+41,ieu-a-9,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Coronary heart disease || id:ieu-a-9,Simple mode,9,0.110693942,0.150855356,0.484032483
+34,ieu-a-9,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Coronary heart disease || id:ieu-a-9,Weighted median,4,0.060529581,0.087228192,0.487730988
+11,ukb-d-20117_2,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Alcohol drinker status: Current || id:ukb-d-20117_2,Wald ratio,1,-3.167378485,4.622662342,0.493227244
+139,ukb-b-6324,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Processed meat intake || id:ukb-b-6324,Weighted median,19,0.161112753,0.242503294,0.506451314
+219,ukb-b-11842,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Weight || id:ukb-b-11842,MR Egger,41,0.399022591,0.616429425,0.521221847
+40,ieu-a-9,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Coronary heart disease || id:ieu-a-9,Inverse variance weighted,9,0.037616653,0.059695048,0.528598432
+138,ukb-b-6324,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Processed meat intake || id:ukb-b-6324,MR Egger,19,-1.336492319,2.098403479,0.532667796
+15,ukb-b-19953,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Body mass index (BMI) || id:ukb-b-19953,Inverse variance weighted,36,-0.291280281,0.474405699,0.539222038
+155,ukb-b-20261,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Ever smoked || id:ukb-b-20261,Inverse variance weighted,6,3.875646046,6.325164069,0.540051927
+90,ukb-b-3957,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Sleeplessness / insomnia || id:ukb-b-3957,Weighted mode,32,-0.249169852,0.427889422,0.564560818
+104,ieu-a-1187,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Major Depressive Disorder || id:ieu-a-1187,Weighted median,3,0.259987816,0.460107771,0.572033962
+234,ieu-a-1239,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Years of schooling || id:ieu-a-1239,MR Egger,257,-0.139662469,0.249306004,0.575831433
+84,ukb-b-3957,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Sleeplessness / insomnia || id:ukb-b-3957,Simple mode,4,1.00661156,1.794411361,0.613989614
+76,ukb-b-7408,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Average total household income before tax || id:ukb-b-7408,MR Egger,38,0.406242912,0.803227261,0.616105811
+107,ieu-a-1187,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Major Depressive Disorder || id:ieu-a-1187,Weighted mode,3,0.343145663,0.591757899,0.6206201
+118,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,MR Egger,3,6.979482726,10.48367076,0.626070983
+167,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,MR Egger,3,6.979482726,10.48367076,0.626070983
+172,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,MR Egger,3,6.979482726,10.48367076,0.626070983
+87,ukb-b-3957,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Sleeplessness / insomnia || id:ukb-b-3957,Weighted median,32,-0.103783288,0.217918649,0.633897815
+106,ieu-a-1187,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Major Depressive Disorder || id:ieu-a-1187,Simple mode,3,0.32525377,0.594951199,0.639434798
+223,ukb-b-11842,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Weight || id:ukb-b-11842,Weighted mode,41,0.115966378,0.245958643,0.639854437
+85,ukb-b-3957,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Sleeplessness / insomnia || id:ukb-b-3957,Weighted mode,4,0.858636285,1.692250932,0.646827831
+86,ukb-b-3957,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Sleeplessness / insomnia || id:ukb-b-3957,MR Egger,32,-0.641070998,1.389510105,0.647864741
+89,ukb-b-3957,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Sleeplessness / insomnia || id:ukb-b-3957,Simple mode,32,-0.214970426,0.476519262,0.655038473
+50,met-c-859,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Glucose || id:met-c-859,Inverse variance weighted,2,0.186310789,0.420158627,0.657455001
+197,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Weighted median,60,0.206029021,0.47661785,0.665543019
+149,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Weighted median,60,0.206029021,0.479158481,0.667209495
+82,ukb-b-3957,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Sleeplessness / insomnia || id:ukb-b-3957,Weighted median,4,0.513372348,1.19486743,0.667451748
+144,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Weighted median,60,0.206029021,0.482611792,0.669449076
+204,ukb-b-16886,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Types of transport used (excluding work): Car/motor vehicle || id:ukb-b-16886,Inverse variance weighted,5,-0.285867699,0.723117039,0.692601566
+186,ieu-a-302,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Triglycerides || id:ieu-a-302,Inverse variance weighted,51,0.034465309,0.089205517,0.699231186
+67,ukb-b-10912,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,"Non-cancer illness code, self-reported: high cholesterol || id:ukb-b-10912",Weighted median,49,-0.122888118,0.323843222,0.704340412
+188,ieu-a-302,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Triglycerides || id:ieu-a-302,Weighted mode,51,-0.018710744,0.05062181,0.713227862
+14,ukb-b-19953,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Body mass index (BMI) || id:ukb-b-19953,Weighted median,36,0.073980058,0.209546825,0.724052562
+228,ebi-a-GCST006867,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Type 2 diabetes || id:ebi-a-GCST006867,Weighted mode,34,0.037784514,0.107792198,0.72816794
+153,ukb-b-20261,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Ever smoked || id:ukb-b-20261,MR Egger,6,-11.08133117,29.79559797,0.72882266
+226,ebi-a-GCST006867,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Type 2 diabetes || id:ebi-a-GCST006867,Inverse variance weighted,34,0.036878623,0.106476052,0.729075165
+91,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,MR Egger,16,0.061948965,0.179913279,0.735717904
+96,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,MR Egger,16,0.061948965,0.179913279,0.735717904
+179,ieu-a-302,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Triglycerides || id:ieu-a-302,MR Egger,16,0.061948965,0.179913279,0.735717904
+145,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Inverse variance weighted,60,-0.129214893,0.396905609,0.744760516
+150,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Inverse variance weighted,60,-0.129214893,0.396905609,0.744760516
+198,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Inverse variance weighted,60,-0.129214893,0.396905609,0.744760516
+231,ieu-a-1239,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Years of schooling || id:ieu-a-1239,Inverse variance weighted,17,-0.240902093,0.741634936,0.745312987
+221,ukb-b-11842,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Weight || id:ukb-b-11842,Inverse variance weighted,41,-0.090991622,0.300525609,0.762061386
+194,ukb-a-228,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,Simple mode,4,2.053378486,6.700962246,0.779313224
+12,ukb-d-20117_2,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Alcohol drinker status: Current || id:ukb-d-20117_2,Inverse variance weighted,2,0.403960952,1.726397259,0.814992177
+202,ukb-b-16886,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Types of transport used (excluding work): Car/motor vehicle || id:ukb-b-16886,MR Egger,5,-1.510107722,5.971567268,0.816696509
+140,ukb-b-6324,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Processed meat intake || id:ukb-b-6324,Inverse variance weighted,19,-0.055909467,0.263189248,0.831771064
+220,ukb-b-11842,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Weight || id:ukb-b-11842,Weighted median,41,0.046423369,0.228711158,0.839152107
+203,ukb-b-16886,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Types of transport used (excluding work): Car/motor vehicle || id:ukb-b-16886,Weighted median,5,0.155974246,0.933547969,0.867309587
+23,ieu-a-1058,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Celiac disease || id:ieu-a-1058,MR Egger,9,-0.062797605,0.417041958,0.88455535
+35,ieu-a-9,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Coronary heart disease || id:ieu-a-9,Inverse variance weighted,4,0.018814935,0.137255614,0.890967932
+105,ieu-a-1187,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Major Depressive Disorder || id:ieu-a-1187,Inverse variance weighted,3,-0.063491222,0.469163339,0.892352066
+185,ieu-a-302,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Triglycerides || id:ieu-a-302,Weighted median,51,-0.005309729,0.04632821,0.90875334
+187,ieu-a-302,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Triglycerides || id:ieu-a-302,Simple mode,51,-0.007031023,0.103386548,0.946051188
+83,ukb-b-3957,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Sleeplessness / insomnia || id:ukb-b-3957,Inverse variance weighted,4,0.065781596,0.976078489,0.946268239
+205,ukb-b-16886,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Types of transport used (excluding work): Car/motor vehicle || id:ukb-b-16886,Simple mode,5,0.077230951,1.248974566,0.95366029
+206,ukb-b-16886,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Types of transport used (excluding work): Car/motor vehicle || id:ukb-b-16886,Weighted mode,5,0.058444701,1.207624681,0.963720392
+103,ieu-a-1187,ebi-a-GCST005536,Type 1 diabetes || id:ebi-a-GCST005536,Major Depressive Disorder || id:ieu-a-1187,MR Egger,3,-0.352865752,8.253153658,0.972797722
+120,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Inverse variance weighted,3,0.020930139,0.949817925,0.98241928
+169,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Inverse variance weighted,3,0.020930139,0.949817925,0.98241928
+174,ukb-b-5445,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Number in household || id:ukb-b-5445,Inverse variance weighted,3,0.020930139,0.949817925,0.98241928
+1,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,MR Egger,30,-0.007121766,0.49488369,0.988620262
+6,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,MR Egger,30,-0.007121766,0.49488369,0.988620262
+108,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,MR Egger,30,-0.007121766,0.49488369,0.988620262
+209,ieu-a-1187,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Major Depressive Disorder || id:ieu-a-1187,MR Egger,30,-0.007121766,0.49488369,0.988620262
+143,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,MR Egger,60,0.011175888,1.237488327,0.992825311
+148,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,MR Egger,60,0.011175888,1.237488327,0.992825311
+196,ukb-a-228,ebi-a-GCST006867,Type 2 diabetes || id:ebi-a-GCST006867,Home area population density - urban or rural: Scotland - Large Urban Area || id:ukb-a-228,MR Egger,60,0.011175888,1.237488327,0.992825311

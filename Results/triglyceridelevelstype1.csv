@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ieu-a-302","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Triglycerides || id:ieu-a-302","MR Egger",16,0.0619489645732461,0.179913278915968,0.735717903688156
+"ieu-a-302","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Triglycerides || id:ieu-a-302","Weighted median",16,-0.14062370169577,0.115779512758758,0.224525592010676
+"ieu-a-302","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Triglycerides || id:ieu-a-302","Inverse variance weighted",16,-0.159265231655894,0.103393427960625,0.123467604935186
+"ieu-a-302","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Triglycerides || id:ieu-a-302","Simple mode",16,-0.135777701544735,0.188982172783051,0.483510619791193
+"ieu-a-302","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Triglycerides || id:ieu-a-302","Weighted mode",16,-0.188818421238981,0.1302083755122,0.167611175551961

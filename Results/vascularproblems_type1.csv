@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14177","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177","MR Egger",20,-3.50131654307281,4.67090684207775,0.463180314022548
+"ukb-b-14177","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177","Weighted median",20,1.05500403201401,0.938295473137024,0.260850330862205
+"ukb-b-14177","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177","Inverse variance weighted",20,1.68208975421577,1.35948794947941,0.215977006976644
+"ukb-b-14177","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177","Simple mode",20,3.73048273902921,1.9054914111377,0.0651100504887679
+"ukb-b-14177","ebi-a-GCST005536","Type 1 diabetes || id:ebi-a-GCST005536","Vascular/heart problems diagnosed by doctor: High blood pressure || id:ukb-b-14177","Weighted mode",20,2.04071085242899,1.26456760433368,0.123064614660553

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-19953","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Body mass index (BMI) || id:ukb-b-19953","MR Egger",346,1.20684843197848,0.112883974150102,3.17472329372598e-23
+"ukb-b-19953","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Body mass index (BMI) || id:ukb-b-19953","Weighted median",346,1.09285270633492,0.0503830675691923,2.50195553150941e-104
+"ukb-b-19953","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Body mass index (BMI) || id:ukb-b-19953","Inverse variance weighted",346,1.07401131088372,0.0408581744006264,2.74882197084682e-152
+"ukb-b-19953","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Body mass index (BMI) || id:ukb-b-19953","Simple mode",346,1.08924264133797,0.151068782247395,3.55615801523092e-12
+"ukb-b-19953","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Body mass index (BMI) || id:ukb-b-19953","Weighted mode",346,1.08924264133797,0.131473680031397,2.6499085507456e-15

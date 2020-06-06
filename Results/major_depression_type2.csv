@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ieu-a-1187","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Major Depressive Disorder || id:ieu-a-1187","MR Egger",30,-0.00712176573336164,0.494883690096696,0.988620261748726
+"ieu-a-1187","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Major Depressive Disorder || id:ieu-a-1187","Weighted median",30,0.102084650820617,0.0822621920828653,0.214618006777331
+"ieu-a-1187","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Major Depressive Disorder || id:ieu-a-1187","Inverse variance weighted",30,0.0965178801008144,0.0665905180501731,0.147219272907661
+"ieu-a-1187","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Major Depressive Disorder || id:ieu-a-1187","Simple mode",30,0.22002426699726,0.209291365008466,0.301810804465804
+"ieu-a-1187","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Major Depressive Disorder || id:ieu-a-1187","Weighted mode",30,0.245922956863126,0.207935113522958,0.24653773836776

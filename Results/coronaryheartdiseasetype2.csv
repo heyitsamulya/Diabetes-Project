@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ieu-a-9","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Coronary heart disease || id:ieu-a-9","MR Egger",9,0.249092015359049,0.146365245239083,0.132571439536266
+"ieu-a-9","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Coronary heart disease || id:ieu-a-9","Weighted median",9,0.147009706370403,0.0426974578114115,0.000575181788838175
+"ieu-a-9","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Coronary heart disease || id:ieu-a-9","Inverse variance weighted",9,0.0376166532794447,0.0596950475419178,0.5285984317979
+"ieu-a-9","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Coronary heart disease || id:ieu-a-9","Simple mode",9,0.110693941802487,0.150855356346129,0.484032483127541
+"ieu-a-9","ebi-a-GCST006867","Type 2 diabetes || id:ebi-a-GCST006867","Coronary heart disease || id:ieu-a-9","Weighted mode",9,0.14939858685829,0.0333043838120479,0.00203991799514375
